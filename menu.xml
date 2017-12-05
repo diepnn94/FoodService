@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+  <DISH>
+    <NAME>BBQ CHICKEN</NAME>
+    <PRICE>$10.00</PRICE>
+    
+  </DISH>
+  <DISH>
+    <NAME>BBQ PULL PORK</NAME>
+    <PRICE>$15.00</PRICE>
+    
+  </DISH>
+  <DISH>
+    <NAME>HAMBURGER AND FRIES</NAME>
+    <PRICE>$12.50</PRICE>
+    
+  </DISH>
+  <DISH>
+    <NAME>TENDER CHICKEN</NAME>
+    <PRICE>$11.00</PRICE>
+    
+  </DISH>
+  <DISH>
+    <NAME>BATTERED FISH</NAME>
+    <PRICE>$16.00</PRICE>
+    
+  </DISH>
+  <DISH>
+    <NAME>CHICKEN SALAD</NAME>
+    <PRICE>$13.50</PRICE>
+    
+  </DISH>
+  <DISH>
+    <NAME>TUNA SANDWICH</NAME>
+    <PRICE>$9.50</PRICE>
+   
+  </DISH>
+
+</CATALOG>
